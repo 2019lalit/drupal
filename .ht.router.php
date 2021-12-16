@@ -1,4 +1,5 @@
 <?php
+
 router script for the built in php web server
 
 /**
@@ -11,6 +12,9 @@ router script for the built in php web server
  *
  * Note that:
  * - The server is single-threaded, any requests made during the execution of
+ The server is single-threaded, any requests made during the execution of
+ The server is single-threaded, any requests made during the execution of
+ updatr by lalit singh
  *   the main request will hang until the main request has been completed.
  * - The web server does not enforce any of the settings in .htaccess in
  *   particular a remote user will be able to download files that normally would
