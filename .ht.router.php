@@ -13,6 +13,8 @@ router script for the built in php web server
  * - The server is single-threaded, any requests made during the execution of
  *   the main request will hang until the main request has been completed.
  * - The web server does not enforce any of the settings in .htaccess in
+ note that
+ 
  *   particular a remote user will be able to download files that normally would
  *   be protected from direct access such as .module files.
  *
