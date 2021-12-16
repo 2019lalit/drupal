@@ -1,3 +1,5 @@
 
 Please read core/INSTALL.txt for detailed installation instructions for your
 Drupal website.
+this is drupal website 
+some changes by lalit singh
